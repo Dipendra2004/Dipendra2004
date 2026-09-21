@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **MERN projects**<br><br>👯 I’m looking to collaborate on **Open Source**<br><br>🤝 I’m looking for help with **Full-Stack Development**<br><br>🌱 I’m currently learning **DSA, MERN & MEAN**<br><br>💬 Ask me about **C++, JavaScript & React**<br><br>⚡ Fun fact: **I love building projects**
+🔭 I’m currently working on **MERN projects**<br><br>👯 I’m looking to collaborate on **Open Source**<br><br>🤝 I’m looking for help with **Full-Stack Development**<br><br>🌱 I’m currently learning **DSA, MERN & MEAN**<br><br>💬 Ask me about **C++, JavaScript, React, Java & Python**<br><br>⚡ Fun fact: **I love building projects**
 
 
 ## 🌐 Socials:
