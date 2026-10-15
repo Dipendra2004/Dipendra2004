@@ -80,75 +80,56 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 AstraAI — Multi-Agent AI Platform
+Building an AI platform that orchestrates intelligent workflows and AI-powered tools.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![MERN](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Agents-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Qdrant-DC244C?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
 
-### 🤖 AstraAI
+**Highlights:** Multi-agent orchestration · Retrieval-Augmented Generation · AI utilities
 
-A multi-agent AI platform that orchestrates intelligent workflows and AI-powered tools.
+[🔗 Explore AstraAI](https://github.com/Dipendra2004)
 
-**Tech Stack**
-- MERN Stack
-- LangChain & LangGraph
-- RAG & Qdrant
-- Redis & Docker
-
-[View Repository](https://github.com/Dipendra2004)
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🛡️ BuildGuard-AI
+An AI-focused project exploring cybersecurity, software analysis, and automation.
 
-An AI-focused project exploring software security, system-level analysis, and automation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-181717?style=flat-square&logo=hackthebox&logoColor=white)
 
-**Tech Stack**
-- Python
-- Cybersecurity
-- AI-assisted analysis
-- Automation
+**Focus:** Security tooling · Automated analysis · Practical problem-solving
 
-[View Repository](https://github.com/Dipendra2004)
+[🔗 Explore BuildGuard-AI](https://github.com/Dipendra2004)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🚗 Parking Finder
+A web application concept designed to make finding parking more convenient.
 
-A web development project focused on helping users find parking conveniently.
+![Web Development](https://img.shields.io/badge/Web-Development-1572B6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Focus Areas**
-- Web Development
-- Application Logic
-- Real-world Problem Solving
+**Focus:** User experience · Application logic · Real-world problem-solving
 
-[View Repository](https://github.com/Dipendra2004/parking-finder)
+[🔗 View Parking Finder](https://github.com/Dipendra2004/parking-finder)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🚧 Pothole Detection System
+A computer vision project for identifying potholes using object detection.
 
-A computer vision project that detects potholes using machine learning techniques.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Tech Stack**
-- Python
-- YOLO & OpenCV
-- Flask
-- MySQL
+**Focus:** Image processing · Object detection · ML-powered applications
 
-[View Repository](https://github.com/Dipendra2004)
+[🔗 Explore Pothole Detection](https://github.com/Dipendra2004)
 
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 📊 GitHub Stats
 
