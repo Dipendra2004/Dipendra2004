@@ -80,43 +80,49 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AstraAI
 
-A multi-agent AI platform designed to orchestrate intelligent workflows and provide AI-powered tools.
+A multi-agent AI platform that orchestrates intelligent workflows and AI-powered tools.
 
-**Tech Stack:**
+**Tech Stack**
 - MERN Stack
 - LangChain & LangGraph
 - RAG & Qdrant
 - Redis & Docker
 
+[View Repository](https://github.com/Dipendra2004)
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ BuildGuard-AI
 
-An AI-focused project exploring software security and system-level problem-solving.
+An AI-focused project exploring software security, system-level analysis, and automation.
 
-**Focus Areas:**
-- Cybersecurity
+**Tech Stack**
 - Python
+- Cybersecurity
 - AI-assisted analysis
-- Practical automation
+- Automation
+
+[View Repository](https://github.com/Dipendra2004)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚗 Parking Finder
 
-A project focused on helping users find parking more conveniently.
+A web development project focused on helping users find parking conveniently.
 
-**Focus Areas:**
+**Focus Areas**
 - Web Development
 - Application Logic
 - Real-world Problem Solving
@@ -124,23 +130,25 @@ A project focused on helping users find parking more conveniently.
 [View Repository](https://github.com/Dipendra2004/parking-finder)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚧 Pothole Detection System
 
-A computer vision project for detecting potholes using image-based machine learning techniques.
+A computer vision project that detects potholes using machine learning techniques.
 
-**Tech Stack:**
+**Tech Stack**
 - Python
-- YOLO
-- OpenCV
-- Flask & MySQL
+- YOLO & OpenCV
+- Flask
+- MySQL
+
+[View Repository](https://github.com/Dipendra2004)
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
 ## 📊 GitHub Stats
 
