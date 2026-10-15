@@ -1,11 +1,18 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dipendra%20Jaiswal&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=55&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:0077B6&height=190&section=header&text=Dipendra%20Jaiswal&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descSize=16&descAlignY=57" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=100&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+Machine+Learning+%26+RAG+%F0%9F%A7%A0;Full-Stack+Development+%7C+DSA+%F0%9F%92%BB;Turning+ideas+into+real-world+projects+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=55&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full-Stack+Development+%7C+Intelligent+Systems;Learning%2C+Building%2C+and+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dipendra2004-181717?style=for-the-badge&logo=github)](https://github.com/Dipendra2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipendra-jaiswal-b0ba4327b)
+<a href="https://github.com/Dipendra2004">
+<img src="https://img.shields.io/badge/GitHub-Dipendra2004-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/dipendra-jaiswal-b0ba4327b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Dipendra2004&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -13,152 +20,105 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+I'm a Computer Science Engineering student at Amity University Mumbai, passionate about building intelligent applications and solving real-world problems through software.
 
-### Software Developer · AI/ML Enthusiast · Full-Stack Developer
-
-*"Building intelligent systems, solving real-world problems, and learning by creating."*
-
-</div>
-
-- 🎓 B.Tech Computer Science Engineering student at Amity University Mumbai.
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, RAG, and Multi-Agent Systems**.
-- 💻 Building full-stack applications using the **MERN stack**.
-- 🧠 Strengthening my problem-solving skills through **DSA and LeetCode**.
-- 🔐 Interested in cybersecurity, intelligent automation, and scalable software systems.
-- 🚀 Working on projects that combine AI, backend engineering, and practical applications.
-- 🎯 Focused on software development and AI/ML internship opportunities.
+- 🤖 Exploring **AI, RAG, LLM applications, and multi-agent systems**
+- 💻 Developing full-stack applications with the **MERN stack**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔐 Interested in cybersecurity, automation, and scalable architectures
+- 🚀 Building projects that combine AI with practical software engineering
+- 🎯 Open to software development and AI/ML internship opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark" alt="Programming Languages"/>
+</p>
 
-### AI / Machine Learning
+**Frontend & Backend**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=langchain&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,vite&theme=dark" alt="Frontend and Backend"/>
+</p>
 
-### Frontend Development
+**AI, Data & Databases**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,redis&theme=dark" alt="AI and Databases"/>
+</p>
 
-### Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/RAG-AI%20Retrieval-6E56CF?style=flat-square" alt="RAG"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+**Tools & Cloud**
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux&theme=dark" alt="Tools and Cloud"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AstraAI — Multi-Agent AI Platform
-Building an AI platform that orchestrates intelligent workflows and AI-powered tools.
+<div align="center">
 
-![MERN](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Agents-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Qdrant-DC244C?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+<a href="https://github.com/Dipendra2004/astra-ai-multi-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dipendra2004&repo=astra-ai-multi-agent&theme=tokyonight&hide_border=true" width="49%" alt="AstraAI repository card"/>
+</a><a href="https://github.com/Structural-Health-AI/BuildGuard-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Structural-Health-AI&repo=BuildGuard-AI&theme=tokyonight&hide_border=true" width="49%" alt="BuildGuard-AI repository card"/>
+</a>
 
-**Highlights:** Multi-agent orchestration · Retrieval-Augmented Generation · AI utilities
+</div>
 
-[🔗 Explore AstraAI](https://github.com/Dipendra2004)
+**Other projects**
 
----
+- 🚧 **Pothole Detection System** — Computer vision and object detection using YOLO, OpenCV, Flask, and MySQL.
+- 🚗 **Parking Finder** — A web development project focused on simplifying parking discovery.
 
-### 🛡️ BuildGuard-AI
-An AI-focused project exploring cybersecurity, software analysis, and automation.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Security](https://img.shields.io/badge/Cybersecurity-181717?style=flat-square&logo=hackthebox&logoColor=white)
-
-**Focus:** Security tooling · Automated analysis · Practical problem-solving
-
-[🔗 Explore BuildGuard-AI](https://github.com/Dipendra2004)
+[Explore all my repositories →](https://github.com/Dipendra2004?tab=repositories)
 
 ---
 
-### 🚗 Parking Finder
-A web application concept designed to make finding parking more convenient.
-
-![Web Development](https://img.shields.io/badge/Web-Development-1572B6?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Focus:** User experience · Application logic · Real-world problem-solving
-
-[🔗 View Parking Finder](https://github.com/Dipendra2004/parking-finder)
-
----
-
-### 🚧 Pothole Detection System
-A computer vision project for identifying potholes using object detection.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Focus:** Image processing · Object detection · ML-powered applications
-
-[🔗 Explore Pothole Detection](https://github.com/Dipendra2004)
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dipendra2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipendra2004&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<a href="https://github.com/Dipendra2004">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipendra2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/Dipendra2004">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipendra2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Dipendra2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Dipendra2004&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</a>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipendra2004&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipendra2004&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Learning & Improving
+## 🎯 Current Focus
 
-- 📌 Data Structures and Algorithms
-- 🧠 Machine Learning and AI application development
-- 🔗 Retrieval-Augmented Generation (RAG) and AI agents
-- 🌐 Full-stack development and backend architecture
-- 🐳 Docker, deployment, and scalable applications
-- 🔐 Cybersecurity and secure software development
+- Strengthening DSA and interview problem-solving
+- Building practical AI applications and agent workflows
+- Improving backend design, APIs, and database architecture
+- Learning deployment, Docker, and cloud fundamentals
+- Preparing for software development and AI/ML internships
 
 ---
 
@@ -166,13 +126,15 @@ A computer vision project for identifying potholes using object detection.
 
 <div align="center">
 
-I'm always interested in collaborating on meaningful projects, exploring new technologies, and connecting with fellow developers.
+<a href="https://github.com/Dipendra2004">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/dipendra-jaiswal-b0ba4327b">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Dipendra2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipendra-jaiswal-b0ba4327b)
+*Always learning. Always building. Always improving.*
 
-### 💻 Code · Learn · Build · Repeat 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:0077B6&height=100&section=footer" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" />
