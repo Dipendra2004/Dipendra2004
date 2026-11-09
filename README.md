@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student at Amity University Mumbai, passionate about building intelligent applications and solving real-world problems through software.
+I'm a Computer Science Engineering student passionate about building intelligent applications and solving real-world problems through software.
 
 - 🤖 Exploring **AI, RAG, LLM applications, and multi-agent systems**
 - 💻 Developing full-stack applications with the **MERN stack**
